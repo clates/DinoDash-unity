@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-DinoDash-1.0";
 const contentToCache = [
     "Build/WebBuilds.loader.js",
-    "Build/WebBuilds.framework.js.br",
-    "Build/WebBuilds.data.br",
-    "Build/WebBuilds.wasm.br",
+    "Build/WebBuilds.framework.js.unityweb",
+    "Build/WebBuilds.data.unityweb",
+    "Build/WebBuilds.wasm.unityweb",
     "TemplateData/style.css"
 
 ];
